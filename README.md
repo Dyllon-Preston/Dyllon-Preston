@@ -2,7 +2,6 @@
 
 > Aerospace Engineer | Robotics & Autonomy | M.S. in Aerospace Engineering at Georgia Tech
 
-[![GitHub followers](https://img.shields.io/github/followers/Dyllon-Preston?style=social)](https://github.com/Dyllon-Preston)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/Dyllon-Preston)
 
 ---
