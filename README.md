@@ -36,10 +36,9 @@
 ---
 
 ## About Me
-This is my personal Github profile, seperate from my private Georgia Tech Enterpise account which contains my research work.
+Welcome to my personal GitHub profile! This is separate from my private Georgia Tech Enterprise account, which hosts my research work.
 
-
-I'm an aerospace engineer passionate about developing intelligent, autonomous systems. Whether it's crafting control frameworks for drone swarms or optimizing multi-phase space trajectories, I approach complex challenges with a blend of analytical rigor and hands-on expertise. Currently, I'm pursuing my M.S. at Georgia Tech while exploring the intersection of robotics, reinforcement learning, and optimal control.
+I'm an aerospace engineer with a passion for developing intelligent, autonomous systems. From designing control frameworks for drone swarms to optimizing multi-phase space trajectories, I tackle complex problems with a mix of analytical precision and practical experience. Currently, I’m pursuing my M.S. at Georgia Tech, focusing on the intersection of robotics, reinforcement learning, and optimal control.
 
 ---
 
