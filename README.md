@@ -19,6 +19,12 @@
       <td align="center"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></td>
       <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></td>
     </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/OpenAI%20Gym-0081A5?style=flat-square&logo=openai&logoColor=white"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/Simulink-003C7A?style=flat-square&logo=mathworks&logoColor=white"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/Optimal%20Control-ff69b4?style=flat-square"/></td>
+    </tr>
   </table>
 </div>
 
