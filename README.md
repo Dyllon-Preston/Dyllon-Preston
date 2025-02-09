@@ -1,5 +1,7 @@
 [![MasterHead](https://github.com/Dyllon-Preston/Dyllon-Preston/blob/main/banner.png)](https://github.com/Dyllon-Preston)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/dyllonpreston)
+
 > Aerospace Engineer | Robotics & Autonomy | M.S. in Aerospace Engineering at Georgia Tech
 
 <div align="center">
@@ -21,7 +23,6 @@
 </div>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/dyllonpreston)
 
 ---
 
