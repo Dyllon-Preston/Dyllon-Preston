@@ -80,7 +80,5 @@ Feel free to connect with me through the following:
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dyllon-Preston)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dyllon-Preston&theme=onedark)](https://github.com/Dyllon-Preston/github-profile-trophy)
 
 
