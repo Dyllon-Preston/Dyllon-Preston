@@ -2,8 +2,8 @@
 
 > Aerospace Engineer | Robotics & Autonomy Enthusiast | M.Sc. Candidate at Georgia Tech
 
-[![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social)](https://github.com/your-github-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social)](https://github.com/Dyllon-Preston)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/Dyllon-Preston)
 
 ---
 
