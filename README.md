@@ -1,48 +1,74 @@
-# Dyllon Preston
+# Hi, I'm Dyllon Preston 👋
 
-I’m an aerospace engineer who bridges advanced robotics, reinforcement learning, and optimal control to create intelligent, autonomous systems. Currently, I’m pursuing my M.S. in Aerospace Engineering at Georgia Tech while actively developing scalable solutions that tackle real-world challenges in aerospace and robotics.
+> Aerospace Engineer | Robotics & Autonomy Enthusiast | M.Sc. Candidate at Georgia Tech
+
+[![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social)](https://github.com/your-github-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
 
 ---
 
 ## About Me
 
-I combine a rigorous, analytical approach with hands-on experience in both academic research and industry. My work ranges from designing control frameworks for autonomous drone swarms to developing optimal trajectories for space missions. I thrive on solving complex problems that require both innovative thinking and precise execution.
+I'm an aerospace engineer passionate about developing intelligent, autonomous systems. Whether it's crafting control frameworks for drone swarms or optimizing multi-phase space trajectories, I focus on solving complex challenges with a blend of analytical rigor and practical experience. Currently, I'm pursuing my M.Sc. at Georgia Tech while exploring the intersection of robotics, reinforcement learning, and optimal control.
+
+> "Engineering is not only about technical excellence but also about innovation and perseverance." 
 
 ---
 
-## What I Work On
+## What I Do
 
-- **Robotics & Autonomy:**  
-  Designing control systems that integrate deep reinforcement learning with real-time sensor fusion for robust, autonomous navigation.
+- **Robotics & Autonomy**  
+  Designing intelligent control systems that fuse deep reinforcement learning with real-time sensor data for robust, autonomous navigation.
 
-- **Optimal Control & Trajectory Planning:**  
-  Leveraging advanced optimization techniques to develop multi-phase flight trajectories and precision landing strategies for aerospace applications.
+- **Optimal Control & Trajectory Planning**  
+  Creating precise, multi-phase flight trajectories and landing strategies through advanced optimization techniques.
 
-- **Systems Optimization:**  
-  Building scalable models to enhance logistics, improve system performance, and streamline decision-making in high-stakes environments.
+- **Systems Optimization**  
+  Developing scalable models and algorithms to streamline complex decision-making processes in high-stakes environments.
 
 ---
 
 ## Selected Projects
 
-- **Drone Swarm Coordination:**  
-  Developed a centralized control framework using transformer-based actor-critic models to enhance coordination and obstacle avoidance in drone swarms.
-
-- **Autonomous Maze Navigation:**  
-  Engineered a robust SLAM and computer vision system for real-time navigation, validated in both simulated (Gazebo) and real-world environments.
-
-- **Lunar Descent Trajectory:**  
-  Designed a mass-optimal, six-phase landing trajectory for lunar descent, applying advanced collocation methods and optimal control theory.
+<table>
+  <tr>
+    <td align="center">
+      <h4>Drone Swarm Coordination</h4>
+      <p>Developed a centralized control framework using transformer-based actor-critic models to enhance obstacle avoidance and real-time swarm coordination.</p>
+    </td>
+    <td align="center">
+      <h4>Autonomous Maze Navigation</h4>
+      <p>Engineered an integrated SLAM and computer vision system for robust navigation in dynamic and unstructured environments.</p>
+    </td>
+    <td align="center">
+      <h4>Lunar Descent Trajectory</h4>
+      <p>Designed a mass-optimal, six-phase landing trajectory leveraging advanced collocation and optimal control methods for lunar descent.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Technical Toolbox
 
-- **Languages & Tools:** Python, C++, MATLAB, Julia, ROS2, Docker, PyTorch, SIMULINK, Gymnasium  
-- **Core Concepts:** Reinforcement Learning (including PPO), deep learning (with transformer architectures), SLAM, optimal control, dynamic programming, systems modeling
+**Languages & Frameworks**
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)  
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)  
+[![MATLAB](https://img.shields.io/badge/MATLAB-FFEE00?style=flat-square&logo=matlab&logoColor=black)](https://www.mathworks.com/products/matlab.html)  
+[![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)](https://julialang.org/)  
+[![ROS2](https://img.shields.io/badge/ROS2-22314F?style=flat-square&logo=ros&logoColor=white)](https://index.ros.org/doc/ros2/)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)  
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+
+**Core Concepts**
+
+- **Reinforcement Learning:** Proximal Policy Optimization (PPO), transformer-based architectures  
+- **Computer Vision & SLAM:** Sensor fusion, CNN-based perception  
+- **Optimal Control:** Trajectory planning, dynamic programming, collocation methods  
+- **Systems Modeling:** Multidisciplinary optimization, embedded modeling
 
 ---
-
 ## Get in Touch
 
 I’m always open to discussing challenging projects and innovative ideas in aerospace and robotics.  
