@@ -102,8 +102,4 @@ I'm an aerospace engineer passionate about developing intelligent, autonomous sy
 
 ## Get in Touch
 
-I’m always open to discussing challenging projects and innovative ideas in aerospace and robotics.  
-Feel free to connect with me through the following:
-
-- **LinkedIn:** [linkedin.com/in/dyllonpreston](https://www.linkedin.com/in/dyllonpreston/)
-- **GitHub:** [github.com/Dyllon-Preston](https://github.com/Dyllon-Preston)
+I’m always open to discussing challenging projects and innovative ideas in aerospace and robotics. Feel free to connect with me.
