@@ -1,7 +1,7 @@
 # Hi, I'm Dyllon Preston 👋
 
 
-[![MasterHead]([your image link](https://github.com/Dyllon-Preston/Dyllon-Preston/blob/main/banner.png))](your GitHub link)
+[![MasterHead](https://github.com/Dyllon-Preston/Dyllon-Preston/blob/main/banner.png)](https://github.com/Dyllon-Preston)
 
 > Aerospace Engineer | Robotics & Autonomy | M.S. in Aerospace Engineering at Georgia Tech
 
