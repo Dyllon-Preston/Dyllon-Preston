@@ -7,9 +7,6 @@
   <a href="https://github.com/Dyllon-Preston">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub">
   </a>
-  <a href="mailto:dpreston9@gatech.edu">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email">
-  </a>
 </p>
 
 <div align="center">
