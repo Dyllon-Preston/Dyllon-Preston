@@ -74,8 +74,8 @@ I’m always open to discussing challenging projects and innovative ideas in aer
 Feel free to connect with me through the following:
 
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/dyllonpreston/)
-- **GitHub:** [github.com/your-github-username](https://github.com/Dyllon-Preston)
+- **LinkedIn:** [linkedin.com/in/dyllonpreston](https://www.linkedin.com/in/dyllonpreston/)
+- **GitHub:** [github.com/Dyllon-Preston](https://github.com/Dyllon-Preston)
 
 ---
 
