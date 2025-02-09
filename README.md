@@ -1,16 +1,21 @@
 [![MasterHead](https://github.com/Dyllon-Preston/Dyllon-Preston/blob/main/banner.png)](https://github.com/Dyllon-Preston)
 
 <div align="center">
-  <h2>My Coding Languages & Tools</h2>
-  <p>
-    [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/) 
-    [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/) 
-    [![MATLAB](https://img.shields.io/badge/MATLAB-FFEE00?style=flat-square&logo=matlab&logoColor=black)](https://www.mathworks.com/products/matlab.html) 
-    [![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)](https://julialang.org/) 
-    [![ROS2](https://img.shields.io/badge/ROS2-22314F?style=flat-square&logo=ros&logoColor=white)](https://index.ros.org/doc/ros2/) 
-    [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) 
-    [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-  </p>
+  <h2>🚀 Technical Toolbox</h2>
+  <table>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/MATLAB-FFEE00?style=flat-square&logo=matlab&logoColor=black"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/ROS2-22314F?style=flat-square&logo=ros&logoColor=white"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></td>
+    </tr>
+  </table>
 </div>
 
 > Aerospace Engineer | Robotics & Autonomy | M.S. in Aerospace Engineering at Georgia Tech
