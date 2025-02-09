@@ -54,4 +54,4 @@ Feel free to connect with me through the following:
 
 ---
 
-![Dyllon Preston's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dyllon-Preston&show_icons=true&theme=default)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dyllon-Preston)](https://git.io/streak-stats)
