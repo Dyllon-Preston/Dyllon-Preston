@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <h2>🚀 Technical Toolbox</h2>
+  <h2>Technical Toolbox</h2>
   <table>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/></td>
