@@ -33,8 +33,6 @@
   </table>
 </div>
 
-
-
 ---
 
 ## About Me
