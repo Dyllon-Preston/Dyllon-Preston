@@ -21,11 +21,6 @@
 </div>
 
 
-<div align="center">
-  <h3>My GitHub Journey</h3>
-  <p>New beginnings pave the way for future innovations. My contributions are just starting—stay tuned as I build my GitHub footprint one commit at a time.</p>
-</div>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/dyllonpreston)
 
 ---
