@@ -77,6 +77,18 @@ I'm an aerospace engineer passionate about developing intelligent, autonomous sy
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dyllon-Preston&show_icons=true&theme=github_dark&hide_border=true" alt="Dyllon Preston's GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dyllon-Preston&theme=github-dark" alt="GitHub Activity Graph">
+</p>
+
+---
+
 ## Get in Touch
 
 I’m always open to discussing challenging projects and innovative ideas in aerospace and robotics.  
