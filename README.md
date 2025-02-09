@@ -1,8 +1,19 @@
 [![MasterHead](https://github.com/Dyllon-Preston/Dyllon-Preston/blob/main/banner.png)](https://github.com/Dyllon-Preston)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/dyllonpreston)
-
-> Aerospace Engineer | Robotics & Autonomy | M.S. in Aerospace Engineering at Georgia Tech
+<p align="center">
+  <a href="https://linkedin.com/in/dyllonpreston">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Dyllon-Preston">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:dpreston9@gatech.edu">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email">
+  </a>
+  <a href="https://scholar.google.com/citations?user=your_google_scholar_id">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Research-34A853?style=flat-square&logo=googlescholar" alt="Google Scholar">
+  </a>
+</p>
 
 <div align="center">
   <h2>🚀 Technical Toolbox</h2>
