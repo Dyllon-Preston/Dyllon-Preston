@@ -41,8 +41,6 @@
 
 I'm an aerospace engineer passionate about developing intelligent, autonomous systems. Whether it's crafting control frameworks for drone swarms or optimizing multi-phase space trajectories, I approach complex challenges with a blend of analytical rigor and hands-on expertise. Currently, I'm pursuing my M.S. at Georgia Tech while exploring the intersection of robotics, reinforcement learning, and optimal control.
 
-> "Engineering is not only about technical excellence but also about innovation and perseverance." 
-
 ---
 
 ## What I Do
@@ -81,24 +79,13 @@ I'm an aerospace engineer passionate about developing intelligent, autonomous sy
 
 ## Core Concepts
 
-- **Reinforcement Learning:** Proximal Policy Optimization (PPO), transformer-based architectures  
+- **Reinforcement Learning:** Proximal Policy Optimization, Group Relative Policy Optimization, Reward Engineering
 - **Computer Vision & SLAM:** Sensor fusion, CNN-based perception  
 - **Optimal Control:** Trajectory planning, dynamic programming, collocation methods  
-- **Systems Modeling:** Multidisciplinary optimization, embedded modeling
+- **Systems Modeling:** Multidisciplinary optimization, Logistics Optimization, MILP, Genetic Algorithms
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dyllon-Preston&show_icons=true&theme=github_dark&hide_border=true" alt="Dyllon Preston's GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dyllon-Preston&theme=github-dark" alt="GitHub Activity Graph">
-</p>
-
----
 
 ## Get in Touch
 
