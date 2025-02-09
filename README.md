@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm an aerospace engineer passionate about developing intelligent, autonomous systems. Whether it's crafting control frameworks for drone swarms or optimizing multi-phase space trajectories, I focus on solving complex challenges with a blend of analytical rigor and practical experience. Currently, I'm pursuing my M.Sc. at Georgia Tech while exploring the intersection of robotics, reinforcement learning, and optimal control.
+I'm an aerospace engineer passionate about developing intelligent, autonomous systems. Whether it's crafting control frameworks for drone swarms or optimizing multi-phase space trajectories, I focus on solving complex challenges with a blend of analytical rigor and practical experience. Currently, I'm pursuing my M.S. at Georgia Tech while exploring the intersection of robotics, reinforcement learning, and optimal control.
 
 > "Engineering is not only about technical excellence but also about innovation and perseverance." 
 
