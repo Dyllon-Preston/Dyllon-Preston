@@ -10,9 +10,6 @@
   <a href="mailto:dpreston9@gatech.edu">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email">
   </a>
-  <a href="https://scholar.google.com/citations?user=your_google_scholar_id">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Research-34A853?style=flat-square&logo=googlescholar" alt="Google Scholar">
-  </a>
 </p>
 
 <div align="center">
