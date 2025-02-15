@@ -35,6 +35,10 @@
 
 ---
 
+![CartPole PPO Simulation](https://github.com/Dyllon-Preston/trajopt-grpo/blob/main/reports/CartPole/cartpole_nn_ppo/001/simulation.gif)
+
+---
+
 ## About Me
 Welcome to my personal GitHub profile! This is separate from my private Georgia Tech Enterprise account, which hosts my research work.
 
