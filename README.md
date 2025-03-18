@@ -34,7 +34,7 @@
 </div>
 
 ---
-
+![QuadPole2D PPO Simulation](https://github.com/Dyllon-Preston/trajopt-grpo/blob/main/reports/QuadPole2D/quadpole2d_nn_ppo/001/simulation.gif)
 ![CartPole PPO Simulation](https://github.com/Dyllon-Preston/trajopt-grpo/blob/main/reports/CartPole/cartpole_nn_ppo/001/simulation.gif)
 
 ---
